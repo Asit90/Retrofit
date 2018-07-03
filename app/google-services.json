@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "469727930273",
+    "firebase_url": "https://retrofit-6c8a2.firebaseio.com",
+    "project_id": "retrofit-6c8a2",
+    "storage_bucket": "retrofit-6c8a2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:469727930273:android:003bb217b5f189ae",
+        "android_client_info": {
+          "package_name": "cakart.cakart.in.retrofit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "469727930273-ivl4l9qu3ceevonlthc13m805hjk23fk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "cakart.cakart.in.retrofit",
+            "certificate_hash": "f54907bdfaa9c2c01a1d3739d5a6c8857b1b8b2f"
+          }
+        },
+        {
+          "client_id": "469727930273-dmsmh09sor4u49hc0qv9lo8rmqa28dvi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLLvwZDI-qlnAjgS34uwhfc5Z8fQ57Ruw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "469727930273-dmsmh09sor4u49hc0qv9lo8rmqa28dvi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
